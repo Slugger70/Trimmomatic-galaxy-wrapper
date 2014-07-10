@@ -1,0 +1,11 @@
+INSTALL.txt
+
+Trimmomatic read trimmer Galaxy Toolshed Wrapper.
+
+REQUIREMENTS:
+
+java installed and available.
+
+Trimmomatic version 0.22 jar file.
+
+Trimmomatic jar file or a link to it must be placed in the Galaxy tool-data/shared/jars directory.
